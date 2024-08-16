@@ -1,0 +1,180 @@
+
+* {  box-sizing: border-box;
+}
+body{
+    background-image:url(./Imagenes/fondo1.jpg);
+    background-size: cover;
+   }
+
+
+
+h1{
+    font-size: 130px;
+    font-weight:900;
+  font-family: "Spicy Rice", serif;
+  font-weight: 1200;
+  font-style: normal;
+  background: #ccc;
+  background: linear-gradient(90deg,rgb(10, 48, 104),rgb(156, 175, 236),rgb(18, 66, 139) );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-align: center;
+  margin-bottom: 50px;
+
+}
+
+h2{
+    font-size: 130px;
+    font-weight:900;
+  font-family: "Spicy Rice", serif;
+  font-weight: 1200;
+  font-style: normal;
+  background: #ccc;
+  background: linear-gradient(90deg,rgb(104, 10, 10),rgb(230, 136, 136),rgb(104, 10, 10) );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h3{
+  color: rgb(110, 7, 7);
+  
+  font-size: 35px;
+ }
+
+
+ h5{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color:rgb(104, 10, 10) ;
+
+ }
+ 
+h6{
+  text-align: center;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgb(10, 48, 104);
+}
+
+h7{
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  color:rgb(104, 10, 10) ;
+  
+}
+h8{
+  
+  font-size: 50px;
+  font-weight: bold;
+  color:rgb(104, 10, 10) ;
+  margin-top: 30px;
+  margin-bottom: 15PX;
+ }
+
+
+ .card-title{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color:rgb(104, 10, 10) ;
+ }
+
+.progra{
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+   
+}
+
+.mentor{
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+   
+   }
+
+.etapas{
+  text-align: justify;
+  font-size: 30px;
+  color: rgb(10, 48, 104);
+  font-weight: bold;
+}
+
+ 
+ .links{
+  font-size: 25px;
+ }
+
+   .mentoria{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color:rgb(110, 7, 7) ;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    
+   }
+   
+  
+
+   .intro{
+    text-align: justify;
+    font-size: 35px;
+   
+    margin-left: 120px;
+    margin-right: 120px;
+   
+   }
+   
+.large{
+  font-size: 15px;
+}
+
+   .card-text{
+    font-size: 20px;
+    color: black;
+   }
+
+   .column1  {
+    float: left;
+    width: 22%;
+   
+    padding: 10px;
+   
+    background-color:#becdfe00;
+  }
+   .column3 {
+    float: right;
+    width: 22%;
+   
+    padding: 10px;
+    
+    background-color: #ff634700;
+  }
+  
+  .column2 {
+    float: center;
+    width: 55%;
+    
+    padding: 10px;
+  
+    background-color: #bdb76b00;
+  }
+  
+
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  
