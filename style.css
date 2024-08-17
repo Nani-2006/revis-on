@@ -84,7 +84,7 @@ h8{
  }
 
 .progra{
-    text-align: justify;
+    text-align: center;
     font-size: 25px;
     margin-left: 120px;
     margin-right: 120px;
@@ -93,7 +93,7 @@ h8{
 }
 
 .mentor{
-    text-align: justify;
+    text-align: center;
     font-size: 25px;
     margin-left: 120px;
     margin-right: 120px;
@@ -102,7 +102,7 @@ h8{
    }
 
 .etapas{
-  text-align: justify;
+  text-align: center;
   font-size: 30px;
   color: rgb(10, 48, 104);
   font-weight: bold;
@@ -126,7 +126,7 @@ h8{
   
 
    .intro{
-    text-align: justify;
+    text-align: center;
     font-size: 35px;
    
     margin-left: 120px;
