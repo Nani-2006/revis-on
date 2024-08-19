@@ -173,7 +173,17 @@ h8{
 }
 
 
+@media (max-width: 900px) {
+    .progra {
+        font-size: 25px;
+    }
+}
 
+@media (max-width: 500px) {
+    .progra {
+        font-size: 15px;
+    }
+}
 .mentor{
     text-align: justify;
     font-size: 25px;
@@ -183,18 +193,19 @@ h8{
    
    }
 
-   @media (max-width: 900px) {
-    .progra, .mentor {
-        font-size: 20px;
+   
+
+      @media (max-width: 900px) {
+     .mentor {
+        font-size: 25px;
     }
 }
 
 @media (max-width: 500px) {
-    .progra, .mentor {
-        font-size: 10px;
+     .mentor {
+        font-size: 15px;
     }
 }
-
 .etapas{
   text-align: justify;
   font-size: 30px;
@@ -246,7 +257,7 @@ h8{
 }
 
 @media (max-width: 500px) {
-    .progra {
+    .mentoria {
         font-size: 20px;
     }
 }
@@ -277,13 +288,13 @@ h8{
 }
 @media (max-width: 900px) {
     .large {
-        font-size: 10px;
+        font-size: 15px;
     }
 }
 
 @media (max-width: 500px) {
     .large {
-        font-size: 5px;
+        font-size: 10px;
     }
 }
 
@@ -293,13 +304,13 @@ h8{
    }
    @media (max-width: 900px) {
     .card-text {
-        font-size: 15px;
+        font-size: 20px;
     }
 }
 
 @media (max-width: 500px) {
     .card-text {
-        font-size: 10px;
+        font-size: 15px;
     }
 }
 
