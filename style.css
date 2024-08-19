@@ -349,3 +349,22 @@ h8{
         font-size: 14px;
     }
 }
+
+.card-title{
+  text-align: justify;
+  font-size: 30px;
+  font-weight: bold;
+  color:rgb(104, 10, 10) ;
+ }
+
+ @media (max-width: 900px) {
+    .card-title {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 500px) {
+    .card-title {
+        font-size: 15px;
+    }
+}
