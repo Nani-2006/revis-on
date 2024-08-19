@@ -161,3 +161,10 @@ h7{
     height: auto;
     margin-bottom: 20px;
 }
+
+.fixed-size-img {
+  width: 100%; 
+  max-width: 400px; 
+  height: auto;
+  object-fit: cover;
+}
