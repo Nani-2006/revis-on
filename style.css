@@ -321,13 +321,13 @@ h8{
 }
 
 @media (max-width: 900px) {
-    .card mb-3d {
+    .card {
         width: 45rem;
     }
 }
 
 @media (max-width: 500rem) {
-    .card mb-3{
+    .card {
         width: 40rem;
     }
 }
