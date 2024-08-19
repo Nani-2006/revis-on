@@ -70,7 +70,7 @@ h3{
     }
 }
  h5{
-  text-align: center;
+  text-align: justify;
   font-size: 30px;
   font-weight: bold;
   color:rgb(104, 10, 10) ;
@@ -90,7 +90,7 @@ h3{
 }
 
 h6{
-  text-align: center;
+  text-align: justify;
   font-weight: bold;
   font-size: 70px;
   color: rgb(10, 48, 104);
@@ -108,7 +108,7 @@ h6{
     }
 }
 h7{
-  text-align: center;
+  text-align: justify;
   font-size: 70px;
   font-weight: bold;
   color:rgb(104, 10, 10) ;
@@ -146,7 +146,7 @@ h8{
     }
 }
  .card-title{
-  text-align: center;
+  text-align: justify;
   font-size: 30px;
   font-weight: bold;
   color:rgb(104, 10, 10) ;
@@ -164,7 +164,7 @@ h8{
     }
 }
 .progra{
-    text-align: center;
+    text-align: justify;
     font-size: 25px;
     margin-left: 120px;
     margin-right: 120px;
@@ -175,7 +175,7 @@ h8{
 
 
 .mentor{
-    text-align: center;
+    text-align: justify;
     font-size: 25px;
     margin-left: 120px;
     margin-right: 120px;
@@ -196,7 +196,7 @@ h8{
 }
 
 .etapas{
-  text-align: center;
+  text-align: justify;
   font-size: 30px;
   color: rgb(10, 48, 104);
   font-weight: bold;
@@ -230,7 +230,7 @@ h8{
 }
 
    .mentoria{
-    text-align: center;
+    text-align: justify;
     font-size: 50px;
     font-weight: bold;
     color:rgb(110, 7, 7) ;
@@ -252,7 +252,7 @@ h8{
 }
 
    .intro{
-    text-align: center;
+    text-align: justify;
     font-size: 35px;
    
     margin-left: 120px;
@@ -282,7 +282,7 @@ h8{
 }
 
 @media (max-width: 500px) {
-    .progra {
+    .large {
         font-size: 5px;
     }
 }
@@ -292,13 +292,13 @@ h8{
     color: black;
    }
    @media (max-width: 900px) {
-    .progra {
+    .card-text {
         font-size: 15px;
     }
 }
 
 @media (max-width: 500px) {
-    .progra {
+    .card-text {
         font-size: 10px;
     }
 }
@@ -322,7 +322,7 @@ h8{
 
 @media (max-width: 900px) {
     .card mb-3d {
-        width: 45%;
+        width: 45rem;
     }
 }
 
