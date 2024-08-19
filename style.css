@@ -136,13 +136,13 @@ h8{
 
  @media (max-width: 900px) {
     h8 {
-        font-size: 30px;
+        font-size: 35px;
     }
 }
 
 @media (max-width: 500px) {
     h8 {
-        font-size: 10px;
+        font-size: 25px;
     }
 }
  .card-title{
